@@ -1,0 +1,7 @@
+Description of files:
+
+cis-checking.R
+Checking for the location of the causal genomic predictors in relation to the differentially expressed gene that the causal genomic predictors predict the expression for.
+
+AvC14_gene_trans_pre_pos.csv
+Sample file of the positions of each differentially expressed gene and the causal genomic regions for each gene used in cis-checking.R.
