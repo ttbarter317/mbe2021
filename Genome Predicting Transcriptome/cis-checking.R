@@ -1,4 +1,3 @@
-setwd("~/Dropbox/Research Project/FLAM/Geno vs Trans")
 dat<-read.csv("AvC14_geno_trans_pre_pos.csv",header=TRUE)
 #if 8 variables
 dat<-dat[,-2]
