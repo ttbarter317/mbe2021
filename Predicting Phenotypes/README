@@ -1,3 +1,22 @@
 Description of files:
 
+A_C_sigSNPs_50kb_v3_pvals.txt
+List of differentiated SNPS between treatment A and C.
 
+AvC14_75trim_lme_de5_genes.csv
+List of differentially expressed genes between treatment A and C at day 14. 
+
+AvC21_75trim_lme_de5_genes.csv
+List of differentially expressed genes between treatment A and C at day 21. 
+
+AvC14_genelist.csv
+All the counts for each gene that were expressed in both treatments at day 14.
+
+AvC21_genelist.csv
+All the counts for each gene that were expressed in both treatments at day 21.
+
+FLAM_trans_pheno_adaptative.R
+FLAM script using the transcriptomic data to predict phenotypes are multiple ages.
+
+FLAM_geno_only.R
+FLAM script using the SNP data to predict phenotypes at a focal age.
