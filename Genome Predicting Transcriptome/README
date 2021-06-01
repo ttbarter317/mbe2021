@@ -1,5 +1,17 @@
 Description of files:
 
+A_C_sigSNPs_50kb_v3_pvals.txt
+List of differentiated SNPS between treatment A and C.
+
+AvC21_75trim_lme_de5_genes.csv
+Sample file of a list of differentially expressed genes between treatment A and C at day 21. 
+
+AvC21_genelist.csv
+Sample file of all the counts for each gene that were expressed in both treatments.
+
+FLAM_geno_to_trans.R
+FLAM script using the SNP data to predict transcriptomic data.
+
 cis-checking.R
 Checking for the location of the causal genomic predictors in relation to the differentially expressed gene that the causal genomic predictors predict the expression for.
 
