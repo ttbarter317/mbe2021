@@ -20,3 +20,9 @@ FLAM script using the transcriptomic data to predict phenotypes are multiple age
 
 FLAM_geno_only.R
 FLAM script using the SNP data to predict phenotypes at a focal age.
+
+mortality_sorted.csv
+List of mortality values at each age for both treatment A and C.
+
+fecundity_sorted.csv
+List of mortality values at each age for both treatment A and C.
