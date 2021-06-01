@@ -1,3 +1,16 @@
 Description of files:
 
+AvC14_genelist.csv
+All the counts for each gene that were expressed in both treatments at day 14.
 
+AvC21_genelist.csv
+All the counts for each gene that were expressed in both treatments at day 21.
+
+fecun_d14_alltime.csv
+List of differentiated genes that are causal predictors for fecundity at each age when using day 14 transcriptomic data.
+
+mort_d14_alltime.csv
+List of differentiated genes that are causal predictors for mortality at each age when using day 14 transcriptomic data.
+
+mort_d21_alltime.csv
+List of differentiated genes that are causal predictors for mortality at each age when using day 21 transcriptomic data.
